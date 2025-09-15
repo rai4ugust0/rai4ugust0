@@ -1,7 +1,7 @@
 # Raí Augusto Monteiro Santana
 
 💻 **Futuro Desenvolvedor Backend**  
-Apaixonado por criar aplicações escaláveis e bem estruturadas.
+Estudando para criar aplicações escaláveis e bem estruturadas.
 
 ### 🚀 Tecnologias
 - Java • Spring Boot
