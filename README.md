@@ -1,7 +1,8 @@
 # Raí Augusto Monteiro Santana
 
-💻 **Futuro Desenvolvedor Backend**  
+## Sobre Mim
 Estudando para criar aplicações escaláveis e bem estruturadas.
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba  
 
 ### 🚀 Tecnologias
 - Java • Spring Boot
