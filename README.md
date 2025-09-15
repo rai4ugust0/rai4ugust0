@@ -1,16 +1,21 @@
-## Hi there 👋
+# Raí Augusto Monteiro Santana
 
-<!--
-**rai4ugust0/rai4ugust0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Futuro Desenvolvedor Backend**  
+Apaixonado por criar aplicações escaláveis e bem estruturadas.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias
+- Java • Spring Boot
+- Git • GitHub • Linux
+- Javasript • Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 🌱 O que estou aprendendo
+- Golang
+- React • React Native
+
+
+### 📫 Contato
+- Email: raiaugusto436@gmail.com
+- [LinkedIn](www.linkedin.com/in/raíaugust0)
