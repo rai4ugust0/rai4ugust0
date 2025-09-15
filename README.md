@@ -20,3 +20,10 @@ Estudando para criar aplicações escaláveis e bem estruturadas.
 ### 📫 Contato
 - Email: raiaugusto436@gmail.com
 - [LinkedIn](www.linkedin.com/in/raíaugust0)
+
+  ## Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rai4ugust0&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai4ugust0&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
