@@ -20,7 +20,7 @@
 
 ### 📫 Contato
 - Email: raiaugusto436@gmail.com
-- [LinkedIn](www.linkedin.com/in/raíaugust0)
+- [LinkedIn](https://www.linkedin.com/in/raiaugust0/)
 
   ## Estatísticas GitHub
 
