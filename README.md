@@ -8,13 +8,14 @@
 ### 🚀 Tecnologias
 - Java • Spring Boot
 - Git • GitHub • Linux
-- Javasript • Node.js
+
 
 
 
 
 ### 🌱 O que estou aprendendo
 - Golang
+- - Javasript • Node.js
 - React • React Native
 
 
