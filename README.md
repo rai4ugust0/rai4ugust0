@@ -1,22 +1,22 @@
 # Raí Augusto Monteiro Santana
 
-## Sobre Mim
-💻 Estudando para criar aplicações escaláveis e bem estruturadas.
+## Sobre Mim:
+💻 Estudando para criar aplicações escaláveis e bem estruturadas;
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba  
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba.
 
-### 🚀 Tecnologias
-- Java • Spring Boot
-- Git • GitHub • Linux
-
-
+### 🚀 Tecnologias:
+- Java • Spring Boot;
+- Git • GitHub • Linux.
 
 
 
-### 🌱 O que estou aprendendo
-- Golang
-- Javasript • Node.js
-- React • React Native
+
+
+### 🌱 O que estou aprendendo:
+- Golang;
+- Javasript • Node.js;
+- React • React Native.
 
 
 ### 📫 Contato
