@@ -16,7 +16,8 @@
 ### 🌱 O que estou aprendendo:
 - Golang;
 - Javasript • Node.js;
-- React • React Native.
+- React • React Native;
+- Python.
 
 
 ### 📫 Contato
