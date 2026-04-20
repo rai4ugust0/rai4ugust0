@@ -11,8 +11,8 @@ Sou um desenvolvedor em constante evolução focado no desenvolvimento Back-end.
 
 
 ### 📫 Contato
-- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev): raiaugusto436@gmail.com
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/raiaugust0/)
+- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)[raiaugusto436@gmail.com]
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[(https://www.linkedin.com/in/raiaugust0/)]
 
   ## Estatísticas GitHub
 
