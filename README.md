@@ -1,9 +1,8 @@
-# Raí Augusto Monteiro Santana
+# Olá, eu sou Raí Augusto Monteiro Santana
 
-## Sobre Mim:
-💻 Estudando para criar aplicações escaláveis e bem estruturadas;
+Sou um desenvolvedor em constante evolução focado no desenvolvimento Back-end.
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba.
+🎓 Formando em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba.
 
 ### 🚀 Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,java,spring,python,fastapi,postgres,linux,docker)](https://skillicons.dev)
@@ -12,8 +11,8 @@
 
 
 ### 📫 Contato
-- Email: raiaugusto436@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/raiaugust0/)
+- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)Email: raiaugusto436@gmail.com
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/raiaugust0/)
 
   ## Estatísticas GitHub
 
