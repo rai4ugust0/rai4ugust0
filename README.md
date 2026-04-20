@@ -11,7 +11,7 @@ Sou um desenvolvedor em constante evolução focado no desenvolvimento Back-end.
 
 
 ### 📫 Contato
-<a href="https//:www.linkedin.com/in/raiaugust0" target="_blank">
+<a href="https://www.linkedin.com/in/raiaugust0/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:raiaugusto436@gmail.com" target="_blank">
