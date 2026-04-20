@@ -6,7 +6,7 @@
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba.
 
 ### 🚀 Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,node,react,java,spring,python,fastapi,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,java,spring,python,fastapi,postgres)](https://skillicons.dev)
 
 
 
