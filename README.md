@@ -6,18 +6,9 @@
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas- IFTM Campus Ituiutaba.
 
 ### 🚀 Tecnologias:
-- Java • Spring Boot;
-- Git • GitHub • Linux.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,node,react,java,spring,python,fastapi,postgres)](https://skillicons.dev)
 
 
-
-
-
-### 🌱 O que estou aprendendo:
-- Golang;
-- Javasript • Node.js;
-- React • React Native;
-- Python.
 
 
 ### 📫 Contato
